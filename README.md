@@ -99,6 +99,6 @@
 ---
 
 ## Technical Specifications
-- **Engine**: Godot Engine 4.x
+- **Engine**: Godot Engine 4.7.x (4.7.1-stable)
 - **Target Resolution**: 1280 × 720 (Canvas Items stretch mode, aspect keep)
 - **Texture Filter**: Nearest / Pixel (configured for 2D pixel-art rendering)
